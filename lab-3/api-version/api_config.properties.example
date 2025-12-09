@@ -1,0 +1,9 @@
+# Finnhub API Configuration
+# 
+# Instructions:
+# 1. Get free API key from https://finnhub.io/register
+# 2. Copy this file to: api_config.properties
+# 3. Replace YOUR_API_KEY_HERE with your actual key
+
+api.key=YOUR_API_KEY_HERE
+use.real.api=true
